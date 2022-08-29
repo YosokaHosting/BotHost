@@ -1,5 +1,20 @@
   <body>
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
+<h1 align="center">YOSOKA HOST</h1>
+
+>
+>
+>
+</div>
+<p align="center">
+  <a href="https://github.com/YosokaHosting"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
+  <a href="httts://instagram.com/yosoka_hosting"><img title="Instagram " src="https://img.shields.io/badge/Instagram-yosoka.svg?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://youtube.com/channel/UCh6zcsGjETF83ocmz4gvCHg"><img title="Youtube" src="https://img.shields.io/badge/Youtube-YosokaNesia.svg?style=for-the-badge&logo=youtube" /></a>
+  <h4 align="center">
+  <a
+  <a href="https://wa.me/6285891634201">Klik disini untuk WhatsApp Yosoka </a>
+</h4>
+</p>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/jx17oHT.gif">
