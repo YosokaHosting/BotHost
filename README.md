@@ -1,10 +1,8 @@
   <body>
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
 <h1 align="center">YOSOKA HOST</h1>
-
->
->
->
+<div align="center">
+<img src="https://i.ibb.co/8zqD0Nx/IMG-20220810-WA0169.jpg" alt="YosokaCodeX" width="300" />
 </div>
 <p align="center">
   <a href="https://github.com/YosokaHosting"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
@@ -56,24 +54,17 @@
 
 ## For Termux
 ```ts
-termux-setup-storage
 apt update && apt upgrade
-pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/HW-XMTeam/baseikal.git
-cd baseikal-master
-pkg install yarn
-yarn
-npm install
-npm start
+pkg install nodejs
+pkg install ffmpeg
+pkg install libwebp
+pkg install imagemagick
+cd /sdcard
+ls ( l kecil Yo )
+cd ( nama file )
+git clone ( chat admin )
+node .
 ```
-
 > ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-
-# INSTALL
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-
 </div>
 </body>
