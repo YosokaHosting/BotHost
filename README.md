@@ -1,4 +1,3 @@
-
   <body>
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
 <br>
@@ -12,11 +11,11 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
+<h4><font size="2"><a href="https://youtube.com/channel/UCh6zcsGjETF83ocmz4gvCHg"><font color="red">SUBSCRIBE</font>
 </h4>
-<h4><font size="2"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
+<h4><font size="2"><a href="https://www.instagram.com/invites/contact/?i=jdy7y8ijwq8z&utm_content=kbpnrms"><font color="red">FOLLOW INSTAGRAM</font>
 </h4>
-<h4><font size="2"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
+<h4><font size="2"><a href="https://t.me/YosokaHost"><font color="red">TELEGRAM</font>          
 </p>
 </p>
 <a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
@@ -39,12 +38,7 @@
 </div>
 
 # Instalasi
-## Heroku Buildpack
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
+
 ## For Termux
 ```ts
 termux-setup-storage
